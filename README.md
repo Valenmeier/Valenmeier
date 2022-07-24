@@ -62,7 +62,7 @@
          <a href="https://www.instagram.com/valenmeier/" target="_blank">
             <img src="https://misssey.org/wp-content/uploads/2017/06/instagram-150x150@2x.png" width="50">
          </a>&nbsp;&nbsp;&nbsp;&nbsp;
-         <a href="https://api.whatsapp.com/send?phone=5493541211401&text=Hola Valentin, quiero comunicarme con vos, respondeme cuando puedas ^-^" target="_blank">
+         <a href="mailto:valentinmeier123@gmail.com" target="_blank">
             <img src="https://cdn.pixabay.com/photo/2016/01/26/17/15/gmail-1162901_960_720.png" width="60" height="50">
          </a>&nbsp;&nbsp;&nbsp;&nbsp;
     <p>
