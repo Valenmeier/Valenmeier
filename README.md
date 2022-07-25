@@ -34,11 +34,11 @@
     <summary align="center"><h3 align="center">✅Mis estadisticas</h3></summary>
     <div align="left">
         <br />
-        <img src="https://github-readme-stats.vercel.app/api?username=Valenmeier&show_icons=true&theme=material-palenight"
+        <img src="https://prueba-ikwnonjc3-valenmeier.vercel.app/api?username=Valenmeier&show_icons=true&theme=material-palenight"
             alt="GitHub Stats" align="center" width="48%" />
     </div>
         <div align="right">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valenmeier&layout=compact&theme=material-palenight&langs_count=6"
+            <img src="https://prueba-ikwnonjc3-valenmeier.vercel.app/api/top-langs/?username=Valenmeier&layout=compact&theme=material-palenight&langs_count=6"
                 alt="GitHub Top-Langs" align="center" width="48%" />
             <br />
             <br>
