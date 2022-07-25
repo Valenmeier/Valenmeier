@@ -32,25 +32,27 @@
 </div>
 <details>
     <summary align="center"><h3 align="center">✅Mis estadisticas</h3></summary>
-    <div align="left">
+    <p align="center">
         <br />
         <img src="https://prueba-ikwnonjc3-valenmeier.vercel.app/api?username=Valenmeier&show_icons=true&theme=material-palenight"
             alt="GitHub Stats" align="center" width="48%" />
-    </div>
-        <div align="right">
             <img src="https://prueba-ikwnonjc3-valenmeier.vercel.app/api/top-langs/?username=Valenmeier&layout=compact&theme=material-palenight&langs_count=6"
                 alt="GitHub Top-Langs" align="center" width="48%" />
+        </p>
             <br />
+            <p align="center">
+        <img src="https://wakatime.com/share/@Valenmeier/ff919a9f-9f19-46a3-9ea5-eb49393c0b52.svg" align="center" width="48%" alt="GitHub Stats"/>
+        <img src="https://wakatime.com/share/@Valenmeier/100be976-aa23-4e56-9267-5345b1d38cf7.svg" align="center" width="48%" alt="GitHub Stats" />
+    </p>
             <br>
-            <h3 align="center">🖥Wakatime perfil🖥</h3>
-            <br>
-            <div align="center">
-                <a href="https://wakatime.com/@Valenmeier"><img
-                        src="https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/06/e8/cf/06e8cf5f-5829-78f1-add8-b8ab80560d3f/AppIcon-0-2x-4-85-220.png/1200x630wa.png"
-                        width="500" /></a>
-            </div>
-         </div>
+           
 </details>
+    <details align="center">
+    <summary align="center"><h3 align="center">⏩Wakatime Perfil</h3></summary>
+        <a align="center" width="100%">
+            <img src="https://user-images.githubusercontent.com/103626076/180869487-bb2107a9-c88a-4523-b5ea-abf1230aaf6c.jpeg" width="30%" align="center">
+        </a>
+    </details>
 <h3 align="center">📲Contacto</h3>
 <p align="center">
         <a href="https://api.whatsapp.com/send?phone=5493541211401&text=Hola Valentin, quiero comunicarme con vos, respondeme cuando puedas ^-^">
