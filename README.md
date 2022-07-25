@@ -49,7 +49,7 @@
 </details>
     <details align="center">
     <summary align="center"><h3 align="center">⏩Wakatime Perfil</h3></summary>
-        <a align="center" width="100%" href="https://wakatime.com/@Valenmeier" target="_blank">
+        <a align="center" width="100%" href="https://wakatime.com/@Valenmeier" target="_Blank">
             <img src="https://user-images.githubusercontent.com/103626076/180869487-bb2107a9-c88a-4523-b5ea-abf1230aaf6c.jpeg" width="30%" align="center">
         </a>
     </details>
