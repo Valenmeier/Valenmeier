@@ -1,4 +1,4 @@
-<p align="Center"><img src="https://i.giphy.com/media/PYBeqQ3NzvUgUAJShY/giphy.webp"></p>
+<p align="Center"><img property="og:image" src="https://i.giphy.com/media/PYBeqQ3NzvUgUAJShY/giphy.webp"></p>
 <h1 align="center"> ¡Bienvenido! Soy Valentin Meier 👋 </h1>
 <h3 align="center">🚀 Front-end Developer 🚀</h3>
 <br>
