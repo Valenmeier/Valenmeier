@@ -8,7 +8,7 @@
         <h3 align="center"> 👨🏻‍💻 Sobre mi </h3>
 
         - 😀 Tengo 19 años .
-        - 🤔 Explorando nuevas tecnologias.
+        - 🤔 Explorando nuevas tecnologías.
         - 🎓 Estudiando Desarrollo Full-Stack en Coderhouse.
         - 🌱 Aprendiendo todos los dias.
         - 💪 Trabajando duro para cumplir mis metas.
@@ -31,7 +31,7 @@
     <p>
 </div>
 <details>
-    <summary align="center"><h3 align="center">✅Mis estadisticas</h3></summary>
+    <summary align="center"><h3 align="center">✅Mis estadísticas</h3></summary>
     <p align="center">
         <br />
         <img src="https://prueba-ikwnonjc3-valenmeier.vercel.app/api?username=Valenmeier&show_icons=true&theme=material-palenight"
