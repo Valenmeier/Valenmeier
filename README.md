@@ -42,7 +42,7 @@
             <br />
             <p align="center">
         <img src="https://wakatime.com/share/@Valenmeier/ff919a9f-9f19-46a3-9ea5-eb49393c0b52.svg" align="center" width="48%" alt="GitHub Stats"/>
-        <img src="https://wakatime.com/share/@Valenmeier/100be976-aa23-4e56-9267-5345b1d38cf7.svg" align="center" width="48%" alt="GitHub Stats" />
+        <img src="https://wakatime.com/share/@Valenmeier/b0ad6eba-2553-4ccd-a79e-4dace8a05b9b.svg" align="center" width="48%" alt="GitHub Stats" />
     </p>
             <br>
            
