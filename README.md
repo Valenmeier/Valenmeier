@@ -28,6 +28,7 @@
         <img src="https://i.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.webp" width="50">
         <img src="https://i.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.webp" width="100">
         <img src="https://i.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.webp" width="0">
+        <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.webp" width="50">
     <p>
 </div>
 <details>
