@@ -7,7 +7,7 @@
     <div align="left">
         <h3 align="center"> 👨🏻‍💻 Sobre mi </h3>
 
-        - 😀 Tengo 19 años .
+        - 😀 Tengo 20 años .
         - 🤔 Explorando nuevas tecnologías.
         - 🎓 Estudiando Desarrollo Full-Stack en Coderhouse.
         - 🌱 Aprendiendo todos los dias.
