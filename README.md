@@ -1,6 +1,6 @@
 <p align="Center"><img property="og:image" src="https://i.giphy.com/media/PYBeqQ3NzvUgUAJShY/giphy.webp"></p>
 <h1 align="center"> ¡Bienvenido! Soy Valentin Meier 👋 </h1>
-<h3 align="center">🚀 Front-end Developer 🚀</h3>
+<h3 align="center">🚀 Full-stack Developer 🚀</h3>
 <br>
 <div>
     <img width="35%" align="right" alt="PIC" src="https://i.giphy.com/media/aNqEFrYVnsS52/giphy.webp" />
@@ -9,7 +9,7 @@
 
         - 😀 Tengo 20 años .
         - 🤔 Explorando nuevas tecnologías.
-        - 🎓 Estudiando Desarrollo Full-Stack en Coderhouse.
+        - 🎓 Desarrollador Full-Stack.
         - 🌱 Aprendiendo todos los dias.
         - 💪 Trabajando duro para cumplir mis metas.
 
@@ -29,17 +29,13 @@
         <img src="https://i.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.webp" width="100">
         <img src="https://i.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.webp" width="0">
         <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.webp" width="50">
+        <img src="https://i.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50">
+        <img src="https://i.blogs.es/8d2420/650_1000_java/1366_2000.png" width="50" > 
+        <img src="https://images.ctfassets.net/c63hsprlvlya/IacLLeOBR5WCvdCPqKuff/a57a4dc79978ad9e141972054ce9f71e/nextjs3.webp" width="50" >
     <p>
 </div>
 <details>
     <summary align="center"><h3 align="center">✅Mis estadísticas</h3></summary>
-    <p align="center">
-        <br />
-        <img src="https://prueba-ikwnonjc3-valenmeier.vercel.app/api?username=Valenmeier&show_icons=true&theme=material-palenight"
-            alt="GitHub Stats" align="center" width="48%" />
-            <img src="https://prueba-ikwnonjc3-valenmeier.vercel.app/api/top-langs/?username=Valenmeier&layout=compact&theme=material-palenight&langs_count=6"
-                alt="GitHub Top-Langs" align="center" width="48%" />
-        </p>
             <br />
             <p align="center">
         <img src="https://wakatime.com/share/@Valenmeier/ff919a9f-9f19-46a3-9ea5-eb49393c0b52.svg" align="center" width="48%" alt="GitHub Stats"/>
@@ -49,7 +45,7 @@
            
 </details>
     <details align="center">
-    <summary align="center"><h3 align="center">⏩Wakatime Perfil</h3></summary>
+    <summary align="center"><h3 align="center">⏩Wakatime Perfil (Revisa mis tiempos semanales!!)</h3></summary>
         <a align="center" width="100%" href="https://wakatime.com/@Valenmeier" target="_Blank">
             <img src="https://user-images.githubusercontent.com/103626076/180869487-bb2107a9-c88a-4523-b5ea-abf1230aaf6c.jpeg" width="30%" align="center">
         </a>
