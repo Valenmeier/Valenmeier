@@ -7,9 +7,10 @@
     <div align="left">
         <h3 align="center"> 👨🏻‍💻 Sobre mi </h3>
 
-        - 😀 Tengo 20 años .
+        - 😀 Tengo 21 años .
         - 🤔 Explorando nuevas tecnologías.
         - 🎓 Desarrollador Full-Stack.
+        - 😄 Estudiante de Ingenieria en Software UES 21.
         - 🌱 Aprendiendo todos los dias.
         - 💪 Trabajando duro para cumplir mis metas.
 
